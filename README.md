@@ -1,15 +1,16 @@
-## UFAPE
+<kbd> UFAPE </kbd>
 
 <samp> 
-  
-Atividade II - Tutoria (Lógica Matemática) 
 
-1.  **_Clone o respositório_**
+  ### Atividade II - Tutoria (Lógica Matemática) 
+
+1.  _Clone o respositório_
 
     ```sh
     git clone <https://github.com/ellenmariadev/ufape-tutoriaLP.git>
     ```
-2. **_Acesse as pastas disponíveis_**
+    
+2. _Acesse as pastas disponíveis_
 
    ```sh
     cd questao_01
@@ -17,7 +18,7 @@ Atividade II - Tutoria (Lógica Matemática)
     cd questao_03
     ```
    
-2.  **_Rode os scripts no terminal/cmd (.py)_**
+2. _Rode os scripts no terminal/cmd (.py)_
 
     ```sh
     python 01_algoritmo.py
